@@ -79,4 +79,4 @@ horizonte, el nivel de confianza, el modelo (automático o manual) y el porcenta
 de datos de entrenamiento.
 
 **App en línea:** https://4c9uz6-luis-herrera.shinyapps.io/nhtemp-pronostico/
-<!-- Cuando tengas la captura, agrega: ![App](img/app.png) -->
+<!-- Cuando tengas la captura, agrega: ![App](app.png) -->
